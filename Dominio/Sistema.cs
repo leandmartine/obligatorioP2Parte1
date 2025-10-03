@@ -38,6 +38,10 @@ namespace Dominio
             get { return new List<Gasto>(_gastos); }
         }
 
-       
+        public void AltaEquipo()
+        {
+
+        }
     }
+    
 }
