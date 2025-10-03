@@ -11,7 +11,7 @@ namespace Dominio.Entidades
         private DateTime _fechaPago;
         private int _numRecibo;
         private decimal _monto;
-        
+
         public DateTime FechaPago
         {
             get { return _fechaPago; }

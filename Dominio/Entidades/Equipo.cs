@@ -22,7 +22,7 @@ namespace Dominio.Entidades
             get { return _nombre;}
             set { _nombre = value; }
         }
-
+        
         public Equipo (string nombre)
         {
             _id = s_ultimoId++;

@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ooooooooo");
+            try
+            {
+                
+            }
+            catch(Exception e) 
+            {
+                Console.WriteLine(Message.e);
+            }
         }
     }
 }
