@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dominio.Entidades
 {
-    internal class Gasto
+    public class Gasto
     {
     }
 }

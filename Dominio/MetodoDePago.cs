@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    internal class MetodoDePago
+    public enum MetodoDePago
     {
+        Credito,
+        Debito,
+        Efectivo,
     }
 }
