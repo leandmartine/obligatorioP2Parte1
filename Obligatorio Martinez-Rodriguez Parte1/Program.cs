@@ -1,43 +1,55 @@
-﻿namespace Obligatorio_Martinez_Rodriguez_Parte1
+﻿using System;
+using Dominio;
+
+namespace Obligatorio_Martinez_Rodriguez_Parte1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine('Ingrese una opcion');
+            Console.WriteLine("Ingrese una opcion");
             mostrarMenu();
-            int opcion = int.tryParse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out int opcion);
 
-
-            private static void mostrarMenu(){
-            Console.WriteLine('1. Alta Usuario');
-            }
             try
             {
-                switch(opcion)
-            {
+                switch (opcion)
+                {
                     case 1:
-                    console.clear();
-                    Console.WriteLine('Ingrese Nombre');
-                    string nombre = Console.ReadLine();
-                    Console.WriteLine('Ingrese Apellido');
-                    string apellido = Console.ReadLine();
-                    Console.WriteLine('Ingrese Contraseña');
-                    string contrasena = Console.ReadLine();
-                    Console.WriteLine('Ingrese Equipo');
-                    Sistema sistema = new Sistema();
-                    sistema.AltaUsuario(nombre, apellido, contrasena, null, null, DateTime.Now);
-                    console.clear();
-                    Console.WriteLine('Usuario dado de alta con exito');
-                    break;
+                        Console.Clear();
+                        Console.WriteLine("Ingrese Nombre");
+                        string nombre = Console.ReadLine();
+                        Console.WriteLine("Ingrese Apellido");
+                        string apellido = Console.ReadLine();
+                        Console.WriteLine("Ingrese Contraseña");
+                        string contrasena = Console.ReadLine();
+                        Console.WriteLine("Seleccione un equipo");
+                        mostrarMenuEquipos();
+                        Sistema sistema = new Sistema();
+                        sistema.AltaUsuario(nombre, apellido, contrasena, null, null);
+                        Console.Clear();
+                        Console.WriteLine("Usuario dado de alta con exito");
+                        break;
+
                     case 2:
                         break;
                 }
             }
-            catch(Exception e) 
+            catch
             {
-                Console.WriteLine(Message.e);
+                // ignored
             }
+        }
+
+        static void mostrarMenu()
+        {
+            Console.WriteLine("1. Alta Usuario");
+        }
+
+        static void mostrarMenuEquipos()
+        {
+            
         }
     }
 }
+
