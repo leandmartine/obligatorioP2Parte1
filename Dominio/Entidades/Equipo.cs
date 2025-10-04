@@ -14,19 +14,21 @@ namespace Dominio.Entidades
 
         public int Id
         {
-            get {  return _id; }
+            get { return _id; }
             set { _id = value; }
         }
         public string Nombre
         {
-            get { return _nombre;}
+            get { return _nombre; }
             set { _nombre = value; }
         }
-        
-        public Equipo (string nombre)
+
+        public Equipo(string nombre)
         {
             _id = s_ultimoId++;
             _nombre = nombre;
         }
+
+        
     }
 }

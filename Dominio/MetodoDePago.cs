@@ -11,5 +11,6 @@ namespace Dominio
         Credito,
         Debito,
         Efectivo,
+        
     }
 }

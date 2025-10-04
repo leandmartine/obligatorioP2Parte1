@@ -38,9 +38,26 @@ namespace Dominio
             get { return new List<Gasto>(_gastos); }
         }
 
-        public void AltaEquipo()
+        public void AltaUsuario()
         {
+            Usuario nuevoUsuario = new Usuario("Juan", "Perez", "contrasenha123", string email, null, DateTime.Now);
+            string mailGenerado = nuevoUsuario.GenerarMail();
+            string mailValidado = validarMail(mailGenerado);
+            nuevoUsuario.AgregarMail(mailValidado);
+            email = mailValidado;
+            nuevoUsuario.ValidarUsuario();
+            _usuarios.Add(nuevoUsuario);
 
+        }
+
+        private string validarMail(string mailGenerado){
+            foreach(Usuario usuario in _usuarios){
+                while(usuario.Mail == mailGenerado){
+                    mailGenerado += new Random().Next(1,10).ToString();
+                };
+                mailGenerado += "@laEmpresa.com";
+                return mailGenerado;
+            }
         }
     }
     

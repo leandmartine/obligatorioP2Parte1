@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Dominio.Entidades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -45,7 +46,7 @@ namespace Dominio.Entidades
             get { return _fechaIng; }
             set { _fechaIng = value; }
         }
-        public Usuario(string nombre, string apellido, string contrasenha, string mail, Equipo equipo, DateTime fechaIng)
+        public Usuario(string nombre, string apellido, string contrasenha, Equipo equipo, DateTime fechaIng)
         {
             _nombre = nombre;
             _apellido = apellido;
@@ -54,5 +55,48 @@ namespace Dominio.Entidades
             Equipo = equipo;
             _fechaIng = FechaIng;
         }
+
+        public void ValidarUsuario()
+        {
+            if(string.IsNullOrEmpty(_nombre)){
+                throw new Exception("El nombre no puede estar vacio");
+            }
+            if(string.IsNullOrEmpty(_apellido)){
+                throw new Exception("El apellido no puede estar vacio");
+            }
+            if(string.IsNullOrEmpty(_contrasenha) || _contrasenha.Length < 8){
+                throw new Exception("La contraseña no puede estar vacia y debe tener al menos 8 caracteres");
+            }
+            }
+            if(_equipo == null){
+                throw new Exception("El usuario debe pertenecer a un equipo");
+            }
+            if(_fechaIng >= DateTime.Now){
+                throw new Exception("La fecha de ingreso no puede ser mayor a la fecha actual");
+            }
+        }
+
+        public string GenerarMail(){
+            string mail = ""
+            int contadorNombre = 0;
+            int contadorApellido = 0;
+            
+            while(contadorNombre < 3 && _nombre.Length != contadorNombre){
+                mail += _nombre[contadorNombre]; 
+                contadorNombre++;
+                }
+
+            while(contadorApellido < 3 && _apellido.Length != contadorApellido){
+                mail += _apellido[contadorApellido]; 
+                contadorApellido++;
+            }
+            return mail;
+            }
+
+            // preguntar a profe si es necesario ya que agregamos a la lista en el sistema
+            public void AgregarMail(string mail){
+                _mail = mail;
+            }
+
     }
 }
