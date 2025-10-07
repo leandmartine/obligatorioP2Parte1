@@ -38,27 +38,28 @@ namespace Dominio
             get { return new List<Gasto>(_gastos); }
         }
 
-        public void AltaUsuario()
+        public void AltaUsuario(string nombre, string apellido, string contrasena, string email, Equipo equipo)
         {
-            Usuario nuevoUsuario = new Usuario("Juan", "Perez", "contrasenha123", string email, null, DateTime.Now);
+            Usuario nuevoUsuario = new Usuario(nombre, apellido, contrasena, email, null, DateTime.Now);
             string mailGenerado = nuevoUsuario.GenerarMail();
             string mailValidado = validarMail(mailGenerado);
             nuevoUsuario.AgregarMail(mailValidado);
             email = mailValidado;
             nuevoUsuario.ValidarUsuario();
             _usuarios.Add(nuevoUsuario);
-
+            Console.WriteLine(nuevoUsuario.ToString());
         }
 
         private string validarMail(string mailGenerado){
+            mailGenerado += "@laEmpresa.com";
             foreach(Usuario usuario in _usuarios){
                 while(usuario.Mail == mailGenerado){
                     mailGenerado += new Random().Next(1,10).ToString();
                 };
-                mailGenerado += "@laEmpresa.com";
-                return mailGenerado;
             }
+            return mailGenerado;
         }
+        
     }
     
 }

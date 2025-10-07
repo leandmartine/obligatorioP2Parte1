@@ -1,5 +1,17 @@
-C:\Users\Renzo Rodriguez\Documents\GitHub\obligatorioP2Parte1\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Renzo Rodriguez\Documents\GitHub\obligatorioP2Parte1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
-C:\Users\Renzo Rodriguez\Documents\GitHub\obligatorioP2Parte1\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
-C:\Users\Renzo Rodriguez\Documents\GitHub\obligatorioP2Parte1\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\Renzo Rodriguez\Documents\GitHub\obligatorioP2Parte1\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfoInputs.cache
+C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfo.cs
+C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.csproj.CoreCompileInputs.cache
+C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/bin/Debug/net8.0/Dominio.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/refint/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/Debug/net8.0/ref/Dominio.dll
