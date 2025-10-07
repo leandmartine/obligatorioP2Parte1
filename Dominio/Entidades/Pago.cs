@@ -8,6 +8,7 @@ namespace Dominio.Entidades
 {
     public abstract class Pago
     {
+        private static int s_ultimoId = 1;
         private int _id;
         private MetodoDePago _metodoPago;
         private Gasto _gasto;
@@ -42,6 +43,20 @@ namespace Dominio.Entidades
         {
             get { return _descripcion; }
             set { _descripcion = value; }
+        }
+
+        public Pago(MetodoDePago MetodoPago, Gasto Gasto, Usuario Usuario, string Descripcion)
+        {
+            _id = s_ultimoId++;
+            _metodoPago = MetodoPago;
+            _gasto = Gasto;
+            _usuario = Usuario;
+            _descripcion = Descripcion;
+        }
+
+        public override string ToString()
+        {
+            return $"Pago #{Id}";
         }
     }
 }
