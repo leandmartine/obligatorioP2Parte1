@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/Obligatorio Martinez-Rodriguez Parte1.csproj": {}
+    "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Obligatorio Martinez-Rodriguez Parte1\\Obligatorio Martinez-Rodriguez Parte1.csproj": {}
   },
   "projects": {
-    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj": {
+    "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj",
-        "packagesPath": "/Users/leandmartine/.nuget/packages/",
-        "outputPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/",
+        "projectPath": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Renzo Rodriguez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/leandmartine/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Renzo Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,35 +65,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/Obligatorio Martinez-Rodriguez Parte1.csproj": {
+    "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Obligatorio Martinez-Rodriguez Parte1\\Obligatorio Martinez-Rodriguez Parte1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/Obligatorio Martinez-Rodriguez Parte1.csproj",
+        "projectUniqueName": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Obligatorio Martinez-Rodriguez Parte1\\Obligatorio Martinez-Rodriguez Parte1.csproj",
         "projectName": "Obligatorio Martinez-Rodriguez Parte1",
-        "projectPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/Obligatorio Martinez-Rodriguez Parte1.csproj",
-        "packagesPath": "/Users/leandmartine/.nuget/packages/",
-        "outputPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/obj/",
+        "projectPath": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Obligatorio Martinez-Rodriguez Parte1\\Obligatorio Martinez-Rodriguez Parte1.csproj",
+        "packagesPath": "C:\\Users\\Renzo Rodriguez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Obligatorio Martinez-Rodriguez Parte1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/leandmartine/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Renzo Rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj": {
-                "projectPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj"
+              "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Renzo Rodriguez\\Downloads\\OneDrive_2025-11-14\\Versiones Parte 2\\13-11-25\\Obligatorio P2\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -124,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

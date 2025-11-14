@@ -1,0 +1,177 @@
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfoInputs.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfo.cs
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.CoreCompileInputs.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cs
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.sourcelink.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/bundle/Obligatorio Martinez-Rodriguez Parte 2.styles.css
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/projectbundle/Obligatorio Martinez-Rodriguez Parte 2.bundle.scp.css
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.build.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.AssemblyReference.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/appsettings.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.runtime.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.endpoints.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.exe
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.deps.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.runtimeconfig.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Dominio.dll
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Dominio.pdb
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.AssemblyReference.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfoInputs.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfo.cs
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.CoreCompileInputs.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cs
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.sourcelink.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/bundle/Obligatorio Martinez-Rodriguez Parte 2.styles.css
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/projectbundle/Obligatorio Martinez-Rodriguez Parte 2.bundle.scp.css
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.build.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Obligatorio Martinez-Rodriguez Parte 2.props
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligato.B7436D42.Up2Date
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.genruntimeconfig.cache
+C:/Users/alumnoFI/Downloads/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte 2.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.MvcApplicationPartsAssemblyInfo.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte 2.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/appsettings.Development.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/appsettings.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.runtime.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.endpoints.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/bundle/Obligatorio Martinez-Rodriguez Parte 2.styles.css
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/scopedcss/projectbundle/Obligatorio Martinez-Rodriguez Parte 2.bundle.scp.css
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligato.B7436D42.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte 2.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\appsettings.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.runtime.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.endpoints.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.exe
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.deps.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Dominio.dll
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Dominio.pdb
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.sourcelink.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\bundle\Obligatorio Martinez-Rodriguez Parte 2.styles.css
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\projectbundle\Obligatorio Martinez-Rodriguez Parte 2.bundle.scp.css
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets\msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets\msbuild.Obligatorio Martinez-Rodriguez Parte 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Obligatorio Martinez-Rodriguez Parte 2.props
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Obligatorio Martinez-Rodriguez Parte 2.props
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Obligatorio Martinez-Rodriguez Parte 2.props
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligato.B7436D42.Up2Date
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\refint\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\08-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\ref\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\appsettings.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.runtime.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.staticwebassets.endpoints.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.exe
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.deps.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.runtimeconfig.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Dominio.dll
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.csproj.AssemblyReference.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfoInputs.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.AssemblyInfo.cs
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.RazorAssemblyInfo.cs
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.sourcelink.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\bundle\Obligatorio Martinez-Rodriguez Parte 2.styles.css
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\scopedcss\projectbundle\Obligatorio Martinez-Rodriguez Parte 2.bundle.scp.css
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligato.B7436D42.Up2Date
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\refint\Obligatorio Martinez-Rodriguez Parte 2.dll
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.pdb
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte 2.genruntimeconfig.cache
+C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\obj\Debug\net8.0\ref\Obligatorio Martinez-Rodriguez Parte 2.dll

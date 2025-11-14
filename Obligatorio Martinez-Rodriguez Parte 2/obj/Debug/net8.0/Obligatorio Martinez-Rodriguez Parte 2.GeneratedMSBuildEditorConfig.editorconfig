@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Obligatorio_Martinez_Rodriguez_Parte_2
+build_property.RootNamespace = Obligatorio_Martinez_Rodriguez_Parte_2
+build_property.ProjectDir = C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Renzo Rodriguez\Downloads\OneDrive_2025-11-14\Versiones Parte 2\13-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte 2
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Pagos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Pagos/PagosPorEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcUGFnb3NQb3JFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Usuario/AgregarPago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBZ3JlZ2FyUGFnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Usuario/AgregarPagoRecurrente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBZ3JlZ2FyUGFnb1JlY3VycmVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Usuario/AgregarPagoUnico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBZ3JlZ2FyUGFnb1VuaWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Renzo Rodriguez/Downloads/OneDrive_2025-11-14/Versiones Parte 2/13-11-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte 2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mkbdlyglxo

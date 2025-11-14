@@ -1,0 +1,15 @@
+﻿@using Dominio.Entidades
+@model Usuario
+
+<h1>Login</h1>
+
+<form method="post">
+	<label>Ingrese Mail</label>
+	<input type="text" name="mailUsuario" />
+	<br />
+	<label>Ingrese Contraseña</label>
+	<input type="password" name="passUsuario" />
+	<br />
+	<input type="submit" value="Iniciar Sesion" />
+</form>
+<p>@ViewBag.mensaje</p>

@@ -1,0 +1,46 @@
+﻿@using Dominio.Entidades
+@model List<Pago>
+
+@if (Model.Count > 0)
+{
+	<table>
+		<tr>
+			<th>Id</th>
+			<th>Fecha</th>
+			<th>Monto</th>
+			<th>Recurrente</th>
+		</tr>
+
+
+		@foreach (Pago pago in Model)
+		{
+			@if(pago is PagoRecurrente R)
+			{
+				<tr>
+					<td>@R.Id</td>
+					<td>@R.FechaDesde.ToString("yyyy-MM-dd")</td>
+					<!--Calcula incremento de la cuota, se muestra solo el valor de la cuota-->
+					<td>@R.AplicarIncrementosYDescuentos(R.Monto)</td>
+					<td>SI</td>
+
+				</tr>
+			}
+			else if (pago is PagoUnico U)
+			{
+				<tr>
+					<td>@U.Id</td>
+					<td>@U.FechaPago.ToString("yyyy-MM-dd")</td>
+					<!--Calcula el monto total-->
+					<td>@U.CalcularMonto()</td>
+					<td>NO</td>
+				</tr>
+			}
+		}
+
+	</table>
+}
+else
+{
+	<p>No hay pagos para mostrar</p>
+}
+<a href="/Usuario/AgregarPago">Agregar nuevo pago</a>

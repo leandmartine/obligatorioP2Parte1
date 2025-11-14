@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Dominio.Entidades
 {
-    public abstract class PagoUnico
+    public class PagoUnico : Pago
     {
         private DateTime _fechaPago;
         private int _numRecibo;
-        private decimal _monto;
-
         public DateTime FechaPago
         {
             get { return _fechaPago; }
@@ -23,11 +21,47 @@ namespace Dominio.Entidades
             get { return _numRecibo; }
             set { _numRecibo = value; }
         }
-
-        public decimal Monto
+        
+        public PagoUnico(DateTime fechaPago, int numRecibo, Gasto gasto, MetodoDePago metodoDePago, Usuario usuario, string descripcion, decimal monto) : base(gasto, metodoDePago, usuario, descripcion, monto)
         {
-            get { return _monto; }
-            set { _monto = value; }
+            _fechaPago = fechaPago;
+            _numRecibo = numRecibo;
         }
+
+        public override decimal CalcularMontoAjustado()
+        {
+            return Monto;
+        }
+
+        // aplica descuentos por metodo de pago o por existir
+        public override decimal AplicarIncrementosYDescuentos(decimal montoAjustado)
+        {
+            decimal total = 1.10m;
+            if (MetodoPago == MetodoDePago.Efectivo)
+            {
+                total = 1.20m;
+            }
+            
+            return total * montoAjustado;
+        }
+
+
+        /*public override bool ComprobarMesDePago()
+        {
+            DateTime fechaActual = DateTime.Now;
+            if (_fechaPago.Month >= fechaActual.Month)
+             {
+                 return true;
+             }
+               return false;
+        }*/
+
+        public override string ToString()
+        {
+            return $"{base.ToString()} Recibo: {_numRecibo}, Fecha de pago: {_fechaPago.Day}/{_fechaPago.Month}/{_fechaPago.Year}";
+        }
+
+
     }
+    
 }

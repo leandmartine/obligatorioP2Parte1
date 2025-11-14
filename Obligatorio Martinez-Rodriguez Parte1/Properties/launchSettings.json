@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Obligatorio Martinez-Rodriguez Parte1": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
