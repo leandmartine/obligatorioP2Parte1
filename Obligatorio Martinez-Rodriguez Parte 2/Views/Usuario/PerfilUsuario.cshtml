@@ -1,0 +1,61 @@
+@using Dominio
+@using Dominio.Entidades
+@model Usuario
+
+<h1>Perfil de usuario</h1>
+
+<h5>Rol:</h5>
+<p>@Model.RolUsuario</p>
+<br/>
+<h5>Nombre:</h5>
+<p>@Model.Nombre</p>
+<br/>
+<h5>Apellido:</h5>
+<p>@Model.Apellido</p>
+<br/>
+<h5>Mail:</h5>
+<p>@Model.Mail</p>
+<br/>
+<h5>Fecha de ingreso:</h5>
+<p>@Model.FechaIng</p>
+<br/>
+<h5>Equipo:</h5>
+<p>@Model.Equipo.Nombre</p>
+<br/>
+
+<h5>Gastos del mes:</h5>
+<br/>
+@if (@ViewBag.GastosMes.Count > 0)
+{
+    decimal sumaDePagos = 0;
+    @foreach (Pago p in ViewBag.GastosMes)
+    {
+        sumaDePagos += p.Monto;
+    }
+    <p>@sumaDePagos</p>
+}
+else
+{
+    <p>No tiene pagos en el mes</p>
+}
+
+@if (Model.RolUsuario == RolDelUsuario.Gerente)
+{
+    <p>Empeados de su equipo:</p>
+    <br/>
+    if (@ViewBag.UsuariosDelEquipo.Count > 0)
+    {
+        
+        @foreach (Usuario u in ViewBag.UsuariosDelEquipo)
+        {
+            <p>@u.Nombre</p>
+        } 
+    }
+    else
+    {
+       
+        <p>No tiene empleados en su equipo</p>
+    }
+    
+}
+

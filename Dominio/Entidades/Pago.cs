@@ -14,6 +14,7 @@ namespace Dominio.Entidades
         private Gasto _gasto;
         private Usuario _usuario;
         private string _descripcion;
+        private decimal _monto;
 
         public int Id
         {
@@ -45,18 +46,62 @@ namespace Dominio.Entidades
             set { _descripcion = value; }
         }
 
-        public Pago(MetodoDePago MetodoPago, Gasto Gasto, Usuario Usuario, string Descripcion)
+        public decimal Monto
+        {
+            get { return _monto; }
+            set { _monto = value; }
+        }
+
+        public Pago(Gasto gasto, MetodoDePago metodoPago, Usuario usuario, string descripcion, decimal monto)
         {
             _id = s_ultimoId++;
-            _metodoPago = MetodoPago;
-            _gasto = Gasto;
-            _usuario = Usuario;
-            _descripcion = Descripcion;
+            _metodoPago = metodoPago;
+            _gasto = gasto;
+            _usuario = usuario;
+            _descripcion = descripcion;
+            _monto = monto;
         }
+
+
+        public void ValidarPago()
+        {
+            if (Gasto == null) throw new Exception("El gasto no tiene que estar vacio");
+            if (MetodoPago == null) throw new Exception("El metodo de pago no puede ser nulo ni vacio");
+            if (Usuario == null) throw new Exception("El usuario no puede ser estar vacio");
+            if (Monto == null) throw new Exception("El monto no puede estar vacio");
+            if (Descripcion == null) throw new Exception("La descripcion no puede estar vacia.");
+            ValidarPagoRecurrente();
+        }
+        
+        // llama a metodos polimorficos que en las calases hijas va a ser modificado y adaptado por los datos diponibles para el calulo
+        public decimal CalcularMonto()
+        {
+            decimal montoAjustado = CalcularMontoAjustado();
+            decimal totalPago = AplicarIncrementosYDescuentos(montoAjustado);
+            
+            return totalPago;
+        }
+
+        public abstract decimal CalcularMontoAjustado();
+
+        public abstract decimal AplicarIncrementosYDescuentos(decimal montoAjustado);
+
+        public virtual void ValidarPagoRecurrente()
+        {
+        }
+
+        // parte de buscar pagos registrados y mostrar los correspondientes al mes acual. Queda para parte 2 del obligatorio
+        /*public bool MesActualDePago()
+        {
+            public abstract bool ComprobarMesDePago();
+
+            return
+        }*/
 
         public override string ToString()
         {
-            return $"Pago #{Id}";
+            return $"Pago: #{Id} Metodo de pago: {MetodoPago}, Gasto: {Gasto.ToString()}, Usuario: {Usuario}, Descripcion: {Descripcion}, Monto total: {CalcularMonto()}.";
         }
+
     }
 }

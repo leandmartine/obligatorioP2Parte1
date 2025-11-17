@@ -22,3 +22,174 @@ C:/Users/Renzo Rodriguez/Documents/GitHub/obligatorioP2Parte1/Obligatorio Martin
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin título/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/07-10-25V3/Sin ti╠ütulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.exe
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+C:/Users/Renzo Rodriguez/Downloads/13-10-25V1/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Sin tiÔòáu╠êtulo/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.exe
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+C:/Users/Renzo Rodriguez/Downloads/16-10-25/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.exe
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+C:/Users/Renzo Rodriguez/Desktop/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.exe
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/refint/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.deps.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.dll
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/bin/Debug/net8.0/Dominio.pdb
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll

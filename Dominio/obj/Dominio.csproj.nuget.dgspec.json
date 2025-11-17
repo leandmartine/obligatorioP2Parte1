@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj": {}
+    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Dominio/Dominio.csproj": {}
   },
   "projects": {
-    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj": {
+    "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj",
+        "projectUniqueName": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/Dominio.csproj",
+        "projectPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Dominio/Dominio.csproj",
         "packagesPath": "/Users/leandmartine/.nuget/packages/",
-        "outputPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/obligatorioP2Parte1/Dominio/obj/",
+        "outputPath": "/Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leandmartine/.nuget/NuGet/NuGet.Config"
