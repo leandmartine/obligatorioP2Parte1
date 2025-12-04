@@ -98,7 +98,7 @@ namespace Obligatorio_Martinez_Rodriguez_Parte1
             Console.WriteLine("Indique Rol");
             Console.Clear();
             // creacion de objeto de usuario dado los datos que nos proporcionan
-            Usuario u = new Usuario(nombre, apellido, contrasena, equipo, DateTime.Now, RolDelUsuario.Gerente);
+            Usuario u = new Usuario(nombre, apellido, contrasena, equipo, DateTime.Now, RolDelUsuario.Gerente, 1);
             sistema.AltaUsuario(u);
             Console.WriteLine(u.ToString());
         }
