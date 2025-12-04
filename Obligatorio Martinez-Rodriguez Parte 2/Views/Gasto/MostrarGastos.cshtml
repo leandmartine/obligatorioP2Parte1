@@ -1,0 +1,39 @@
+﻿@using Dominio.Entidades;
+@model List<Gasto>
+
+@if (Model.Count > 0)
+{
+	<table>
+		<tr>
+			<th>Id</th>
+			<th>Nombre</th>
+			<th>Descripcion</th>
+		</tr>
+
+
+		@foreach (Gasto gasto in Model)
+		{
+			@if (gasto.Eliminado == false)
+			{
+				<tr>
+					<td>@gasto.Id</td>
+					<td>@gasto.Nombre</td>
+					<td>@gasto.Descripcion</td>
+					<td><a href="/Gasto/Eliminar/@gasto.Id">Eliminar</a></td>
+
+				</tr>
+			}
+			
+		}
+
+	</table>
+}
+else
+{
+	<p>No hay gastos para mostrar</p>
+}
+<p>@ViewBag.mensaje</p>
+
+<a href="/Gasto/Agregar/">Agregar gasto</a>
+
+<br />

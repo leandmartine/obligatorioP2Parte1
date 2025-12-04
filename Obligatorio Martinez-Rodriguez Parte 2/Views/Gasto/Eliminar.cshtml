@@ -1,0 +1,22 @@
+﻿@using Dominio.Entidades
+@model Gasto
+
+<h1>Eliminar gasto</h1>
+<form method="post">
+    <label>Id</label>
+    <br />
+    <input type="number" name="id" value="@Model.Id" disabled />
+    <br/>
+    <label>Nombre</label>
+    <br />
+    <input type="text" name="nombre" value="@Model.Nombre" disabled />
+
+    <br/>
+    <label>Descripcion</label>
+    <br />
+    <input type="text" name="descripcion" value="@Model.Descripcion" disabled />
+    <br />
+    <br/>
+    <input type="submit" value="Eliminar"/>
+</form>
+<p>@ViewBag.mensaje</p>
