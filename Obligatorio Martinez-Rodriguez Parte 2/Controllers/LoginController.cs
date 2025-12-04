@@ -21,7 +21,7 @@ namespace Obligatorio_Martinez_Rodriguez_Parte_2.Controllers
             {
                 Usuario usuario = sistema.Login(mailUsuario, passUsuario);
                 HttpContext.Session.SetString("mail", usuario.Mail);
-                
+
                 if(usuario.RolUsuario is RolDelUsuario.Gerente)
                 {
                     HttpContext.Session.SetString("RolUsuario", "Gerente");
@@ -30,7 +30,7 @@ namespace Obligatorio_Martinez_Rodriguez_Parte_2.Controllers
                 {
                     HttpContext.Session.SetString("RolUsuario", "Empleado");
                 }
-                return RedirectToAction("Index", "Usuario");
+                return RedirectToAction("PagosPorEmail", "Pagos");
             }
             catch (Exception e)
             {
@@ -41,7 +41,7 @@ namespace Obligatorio_Martinez_Rodriguez_Parte_2.Controllers
         public IActionResult Logout()
         {
             HttpContext.Session.Clear();
-            return RedirectToAction("Index");
+            return View("Index");
         }
     }
 }

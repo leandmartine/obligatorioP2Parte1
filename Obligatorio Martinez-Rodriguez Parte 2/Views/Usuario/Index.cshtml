@@ -1,7 +1,32 @@
 ﻿@using Dominio.Entidades
-@model Usuario
+@model List<Pago>
 
-<h1>Bienvenido</h1>
-<h3>@Model.Nombre</h3>
+@if (Model.Count > 0)
+{
+	<table>
+		<tr>
+			<th>Nombre</th>
+			<th></th>
+			<th></th>
+		</tr>
+
+		
+		@foreach (Pago pago in Model)
+		{
+			<tr>
+				
+				<td><a href="/Usuario/Details?id=@pago.Id">detalles</a></td>
 
 
+			</tr>
+		}
+
+
+
+	</table>
+}
+else
+{
+	<p>No hay pagos para mostrar</p>
+}
+<p>@ViewBag.msg</p>

@@ -8,9 +8,6 @@
 			<th>Id</th>
 			<th>Fecha</th>
             <th>Monto</th>
-			<th>Metodo de Pago</th>
-            <th>Tipo de Pago</th>
-            <th>Descripcion</th>
 		</tr>
 
 
@@ -23,9 +20,6 @@
 					<td>@R.FechaDesde.ToString("yyyy-MM-dd")</td>
 					<!--Calcula incremento de la cuota, se muestra solo el valor de la cuota-->
                     <td>@R.AplicarIncrementosYDescuentos(R.Monto)</td>
-					<td>@R.MetodoPago.ToString()</td>
-                    <td>Recurrente</td>
-                    <td>@R.Descripcion</td>
 
 				</tr>
 			}
@@ -36,9 +30,6 @@
 					<td>@U.FechaPago.ToString("yyyy-MM-dd")</td>
 					<!--Calcula el monto total-->
                     <td>@U.CalcularMonto()</td>
-                    <td>@U.MetodoPago.ToString()</td>
-                    <td>Unico</td>
-					<td>@U.Descripcion</td>
 				</tr>
 			}
 		}
@@ -47,18 +38,4 @@
 }
 else
 {
-	<p>No hay pagos para mostrar de este mes</p>
 }
-
-<br/>
-<label>Desea agregar un pago:</label>
-<form asp-controller="Pagos" asp-action="AgregarPago" method="post">
-	<select name="esRecurrente">
-		<option value="2">Seleccione una opcion..</option>
-		<option value="1">Nuevo pago Recurrente</option>
-		<option value="0"> Nuevo pago Unico</option>
-	</select>
-	
-	<button type="submit">Agregar</button>
-</form>
-

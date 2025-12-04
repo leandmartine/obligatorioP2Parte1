@@ -1,0 +1,54 @@
+﻿@using Dominio
+@using Dominio.Entidades
+@model Usuario
+
+<h1>Agregar nuevo pago</h1>
+
+<form asp-controller="Pagos" asp-action="AgregarPago" method="post">
+    <label>Metodo de pago</label>
+    <select name="metodoDePago">
+        <option value="">Seleccione una opción</option>
+        <option value="0">Credito</option>
+        <option value="1">Debito</option>
+        <option value="2">Efectivo</option>
+    </select>
+    <br/>
+    <br />
+    <label>Seleccione tipo de gasto</label>
+    
+        @if (ViewBag.Gastos != null)
+        {
+        <select name="idGasto">
+            @foreach (Gasto gasto in (List<Gasto>)ViewBag.Gastos)
+            {
+                <option value="@gasto.Id">@gasto.Nombre</option>
+            }
+        </select>
+        }
+        else
+        {
+            <p>No hay gastos dispobibles</p>
+        }
+
+    <br/>
+    <br />
+    <input type="hidden" name="mailUsuario" value="@Model.Mail"/>
+    <label>Descripcion</label>
+    <input type="text" name="descripcion"/>
+    <br />
+    <br />
+    <label>Monto</label>
+    <input type="number" name="monto"/>
+    <br />
+    <br />
+    <label>¿Es Recurrente?</label>
+    <select name="esRecurrente">
+        <option value="x">Seleccione una opcion</option>
+        <option id="0">Si</option>
+        <option id="1">No</option>
+    </select>
+    <br />
+    <br />
+    <button type="submit">Siguiente</button> 
+    
+</form>
