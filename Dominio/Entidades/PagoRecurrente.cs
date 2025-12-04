@@ -38,13 +38,13 @@ namespace Dominio.Entidades
         {
             _fechaDesde = fechaDesde;
             _fechaHasta = fechaHasta;
+            _cuotas = CalcularCuotas(FechaDesde, FechaHasta);
         }
         
 
         // tomar valor de clase padre de monto
         public override decimal CalcularMontoAjustado()
         {
-            _cuotas = CalcularCuotas(FechaDesde, FechaHasta);
             if (_fechaHasta != DateTime.MinValue || _fechaHasta >= DateTime.Today)
             {
                 return Monto * _cuotas;
@@ -74,6 +74,9 @@ namespace Dominio.Entidades
 
         public override void ValidarPagoRecurrente()
         {
+            if (_fechaDesde == DateTime.MinValue) throw new Exception("La fecha no puede estar vacio");
+            if (_fechaHasta == null) throw new Exception("La fecha no puede estar vacio");
+            if (_fechaDesde == null) throw new Exception("La fecha no puede estar vacio");
             if (_fechaHasta != DateTime.MinValue)
             {
                 if (_fechaHasta < _fechaDesde || _fechaDesde <= DateTime.MinValue) throw new Exception("La fecha desde debe de ser menor que la fecha hasta");

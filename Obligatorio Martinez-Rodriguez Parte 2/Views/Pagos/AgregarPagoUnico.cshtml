@@ -1,0 +1,61 @@
+﻿@using Dominio
+@using Dominio.Entidades
+
+<h1>Agregar nuevo pago</h1>
+
+<form asp-controller="Pagos" asp-action="AgregarPagoUnico" method="post">
+    <label>Metodo de pago</label>
+    <select name="metodoDePago">
+        <option value="3">Seleccione una opción</option>
+        <option value="0">Credito</option>
+        <option value="1">Debito</option>
+        <option value="2">Efectivo</option>
+    </select>
+    <br/>
+    <br />
+    <label>Seleccione tipo de gasto</label>
+    
+    @if (ViewBag.Gastos != null)
+    {
+        <select name="idGasto">
+            <option value="x">Seleccione una opcion</option>
+            @foreach (Gasto gasto in (List<Gasto>)ViewBag.Gastos)
+            {
+                @if (gasto.Eliminado == false)
+                {
+                    <option value="@gasto.Id">@gasto.Nombre</option>
+                }
+            }
+        </select>
+    }
+    else
+    {
+        <p>No hay gastos dispobibles</p>
+    }
+
+    <br/>
+    <br />
+    <label>Descripcion</label>
+    <input type="text" name="descripcion"/>
+    <br />
+    <br />
+    <label>Monto</label>
+    <input type="number" name="monto"/>
+    <br />
+    
+        <h4>Datos pago unico:</h4>
+        <br/>
+            <label>Ingrese la fecha de pago</label>
+            <input type="date" name="fechaPago" />
+            <br />
+            <br />
+            <label>Ingrese el numero de recibo</label>
+            <input type="number" name="numeroRecibo" />
+            <br />
+            <br />
+            <button type="submit">Agregar pago</button>
+    
+</form>
+
+<br/>
+<p>@ViewBag.mensaje</p>

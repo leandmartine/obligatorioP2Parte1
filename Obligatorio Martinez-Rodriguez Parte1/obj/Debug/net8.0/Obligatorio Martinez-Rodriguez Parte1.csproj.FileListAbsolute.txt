@@ -193,3 +193,22 @@ C:/Users/alumnoFI/Downloads/E-236084-1/EntregaObligatorio-Martinez-Rodriguez/Obl
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligato.F6E8DC25.Up2Date
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
 /Users/leandmartine/Documents/ORT/2do semestre/Programacion 2/Obligatorio/Parte 2/Obligatorio P2/Obligatorio Martinez-Rodriguez Parte1/obj/Debug/net8.0/ref/Obligatorio Martinez-Rodriguez Parte1.dll
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.exe
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.deps.json
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.dll
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.pdb
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Dominio.dll
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\bin\Debug\net8.0\Dominio.pdb
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.sourcelink.json
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligato.F6E8DC25.Up2Date
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.dll
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\refint\Obligatorio Martinez-Rodriguez Parte1.dll
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.pdb
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\Obligatorio Martinez-Rodriguez Parte1.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\21-11-25\Obligatorio P2\Obligatorio Martinez-Rodriguez Parte1\obj\Debug\net8.0\ref\Obligatorio Martinez-Rodriguez Parte1.dll

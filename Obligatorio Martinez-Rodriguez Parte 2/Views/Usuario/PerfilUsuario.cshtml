@@ -17,38 +17,110 @@
 <p>@Model.Mail</p>
 <br/>
 <h5>Fecha de ingreso:</h5>
-<p>@Model.FechaIng</p>
+<p>@Model.FechaIng.ToString("yyyy-MM-dd")</p>
 <br/>
 <h5>Equipo:</h5>
 <p>@Model.Equipo.Nombre</p>
 <br/>
 
 <h5>Gastos del mes:</h5>
-<br/>
 @if (@ViewBag.GastosMes.Count > 0)
-{
-    decimal sumaDePagos = 0;
-    @foreach (Pago p in ViewBag.GastosMes)
     {
-        sumaDePagos += p.Monto;
+        decimal sumaDePagos = 0;
+        @foreach (Pago p in ViewBag.GastosMes)
+        {
+            sumaDePagos += p.Monto;
+        }
+        <p>@sumaDePagos</p>
     }
-    <p>@sumaDePagos</p>
-}
-else
-{
-    <p>No tiene pagos en el mes</p>
-}
+    else
+    {
+        <p>No tiene pagos en el mes</p>
+    }
+    
 
 @if (Model.RolUsuario == RolDelUsuario.Gerente)
 {
-    <p>Empeados de su equipo:</p>
+    <h1>Perfil de Gerente</h1>
+
+    <form asp-action="PerfilUsuario" asp-controller="Usuario" method="post">
+        <label>Filtrar por fecha</label>
+        <input type="month" name="fecha" />
+        <button type="submit">Filtrar</button>
+    </form>
+    @if (@ViewBag.MesFiltrado != null)
+    {
+        <p>Fecha filtrada: @ViewBag.MesFiltrado</p>
+    }
+    @if (@ViewBag.PagoPorMes.Count > 0)
+    {
+        <table>
+            <thead>
+            <tr>
+                <th>Id</th>
+                <th>Fecha</th>
+                <th>Monto</th>
+                <th>Metodo de Pago</th>
+                <th>Tipo de Pago</th>
+                <th>Descripcion</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                @foreach (Pago p in @ViewBag.PagoPorMes)
+                {
+                    @if(p is PagoRecurrente R)
+                    {
+                        <tr>
+                            <td>@R.Id</td>
+                            <td>@R.FechaDesde.ToString("yyyy-MM-dd")</td>
+                            <!--Calcula incremento de la cuota, se muestra solo el valor de la cuota-->
+                            <td>@R.AplicarIncrementosYDescuentos(R.Monto)</td>
+                            <td>@R.MetodoPago.ToString()</td>
+                            <td>Recurrente</td>
+                            <td>@R.Descripcion</td>
+                            
+                        </tr>
+                    }
+                    else if (p is PagoUnico U)
+                    {
+                        <tr>
+                            <td>@U.Id</td>
+                            <td>@U.FechaPago.ToString("yyyy-MM-dd")</td>
+                            <!--Calcula el monto total-->
+                            <td>@U.CalcularMonto()</td>
+                            <td>@U.MetodoPago.ToString()</td>
+                            <td>Unico</td>
+                            <td>@U.Descripcion</td>
+                        </tr>
+                    }
+                }
+            </tr>
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <br/>
+        <p>Su equipo no realizó pagos este mes</p>
+    }
+    
     <br/>
+    <h5>Empleados de su equipo:</h5>
     if (@ViewBag.UsuariosDelEquipo.Count > 0)
     {
         
         @foreach (Usuario u in ViewBag.UsuariosDelEquipo)
         {
-            <p>@u.Nombre</p>
+            if (u.RolUsuario == RolDelUsuario.Empleado)
+            {
+                <p><b>Rol:</b> @u.RolUsuario.ToString()</p>
+                <p><b>Nombre:</b> @u.Nombre</p>
+                <p><b>Apellido:</b> @u.Apellido</p>
+                <p><b>Mail:</b> @u.Mail</p>
+                <p><b>Fecha ingreso:</b> @u.FechaIng.ToString("yyyy-MM-dd")</p>
+                <p>-----------------------------------------------------------</p>
+            }
         } 
     }
     else
@@ -56,6 +128,5 @@ else
        
         <p>No tiene empleados en su equipo</p>
     }
-    
 }
 

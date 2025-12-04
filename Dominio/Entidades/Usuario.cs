@@ -19,6 +19,8 @@ namespace Dominio.Entidades
         private DateTime _fechaIng;
         private RolDelUsuario _rolUsuario;
         private bool _eliminado;
+        //agregamos atributo por defensa
+        private int _gradoImportancia;
 
         public int Id
         {
@@ -73,8 +75,14 @@ namespace Dominio.Entidades
             get { return _eliminado; }
             set { _eliminado = value; }
         }
+        
+        public int GradoImportancia
+        {
+            get { return _gradoImportancia; }
+            set { _gradoImportancia = value; }
+        }
 
-        public Usuario(string nombre, string apellido, string contrasenha, Equipo equipo, DateTime fechaIng, RolDelUsuario rolUsuario)
+        public Usuario(string nombre, string apellido, string contrasenha, Equipo equipo, DateTime fechaIng, RolDelUsuario rolUsuario, int gradoImportancia)
         {
             _nombre = nombre;
             _apellido = apellido;
@@ -83,6 +91,7 @@ namespace Dominio.Entidades
             _fechaIng = fechaIng;
             _rolUsuario = rolUsuario;
             _eliminado = false;
+            _gradoImportancia = gradoImportancia;
         }
 
         public Usuario()
@@ -105,6 +114,8 @@ namespace Dominio.Entidades
                 throw new Exception("La fecha de ingreso no puede ser mayor a la fecha actual");
 
             if (_rolUsuario == null) throw new Exception("El rol no puede ser nulo");
+            
+            if (_gradoImportancia == null) throw new Exception("El grado importancia no puede ser nulo");
         }
 
         // generamos mail con las primeras 3 letras del nombre y las primeras 3 del apellido. Si tiene menos agrega las que tenga. 

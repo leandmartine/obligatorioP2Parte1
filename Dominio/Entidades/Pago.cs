@@ -69,6 +69,7 @@ namespace Dominio.Entidades
             if (MetodoPago == null) throw new Exception("El metodo de pago no puede ser nulo ni vacio");
             if (Usuario == null) throw new Exception("El usuario no puede ser estar vacio");
             if (Monto == null) throw new Exception("El monto no puede estar vacio");
+            if (Monto <= 0) throw new Exception("El monto no puede ser negativo");
             if (Descripcion == null) throw new Exception("La descripcion no puede estar vacia.");
             ValidarPagoRecurrente();
         }
@@ -90,13 +91,6 @@ namespace Dominio.Entidades
         {
         }
 
-        // parte de buscar pagos registrados y mostrar los correspondientes al mes acual. Queda para parte 2 del obligatorio
-        /*public bool MesActualDePago()
-        {
-            public abstract bool ComprobarMesDePago();
-
-            return
-        }*/
 
         public override string ToString()
         {

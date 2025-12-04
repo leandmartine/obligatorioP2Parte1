@@ -1,0 +1,58 @@
+@using Dominio
+@using Dominio.Entidades
+@model List<Usuario>
+
+<h5>Usuarios del sistema por importancia:</h5>
+<br/>
+<form asp-action="UsuariosDelSistema" asp-controller="Usuario" method="post">
+        <label>Filtrar por numero de importancia:</label>
+        <br/>
+        <input type="number" name="importancia" />
+        <button type="submit">Filtrar</button>
+</form>
+
+@if (@ViewBag.Importancia is int)
+{
+        <p>Se esta filtrando por: @ViewBag.Importancia</p>
+}
+else
+{
+        <p>@ViewBag.Mensaje</p>
+}
+
+@if (@Model.Count > 0)
+{
+        @foreach (Usuario u in Model)
+        {
+                @if (@ViewBag.Importancia != null)
+                {
+
+                        @if (u.GradoImportancia == @ViewBag.Importancia)
+                        {
+                                <p><b>Rol:</b> @u.RolUsuario.ToString()</p>
+                                <p><b>Nombre:</b> @u.Nombre</p>
+                                <p><b>Apellido:</b> @u.Apellido</p>
+                                <p><b>Mail:</b> @u.Mail</p>
+                                <p><b>Fecha ingreso:</b> @u.FechaIng.ToString("yyyy-MM-dd")</p>
+                                <p><b>Importancia:</b> @u.GradoImportancia</p>
+                                <p>-----------------------------------------------------------</p>
+                        }
+
+                }
+                else
+                {
+                        <p><b>Rol:</b> @u.RolUsuario.ToString()</p>
+                        <p><b>Nombre:</b> @u.Nombre</p>
+                        <p><b>Apellido:</b> @u.Apellido</p>
+                        <p><b>Mail:</b> @u.Mail</p>
+                        <p><b>Fecha ingreso:</b> @u.FechaIng.ToString("yyyy-MM-dd")</p>
+                        <p><b>Importancia:</b> @u.GradoImportancia</p>
+                        <p>-----------------------------------------------------------</p>
+                }
+        }
+        
+}
+else
+{
+        <p>No hay usuarios para mostrar</p>
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Obligatorio Martinez-Rodriguez Parte1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+708a1e4f8e43960d2fbe5a8ef570326fa7c87d34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbabb82d5d564bb2b2a17a8639ac222859ffc52e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Obligatorio Martinez-Rodriguez Parte1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obligatorio Martinez-Rodriguez Parte1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

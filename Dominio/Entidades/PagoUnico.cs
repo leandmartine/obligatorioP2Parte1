@@ -36,10 +36,10 @@ namespace Dominio.Entidades
         // aplica descuentos por metodo de pago o por existir
         public override decimal AplicarIncrementosYDescuentos(decimal montoAjustado)
         {
-            decimal total = 1.10m;
+            decimal total = 0.90m;
             if (MetodoPago == MetodoDePago.Efectivo)
             {
-                total = 1.20m;
+                total = 0.80m;
             }
             
             return total * montoAjustado;
